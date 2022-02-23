@@ -1,4 +1,4 @@
-Hi there!
+Hi there! <br/>
 I'm a math and computer science student at Technion.
 
 Easily excited about
@@ -22,7 +22,8 @@ Public stats:
 
 
 <hr/>
-I'm more active on ![gitlab](https://gitlab.com/giladwo), so you might check it out as well :slightly_smiling_face:
+I'm more active on [gitlab](https://gitlab.com/giladwo) :slightly_smiling_face:
+
 <!--
 **giladwo/giladwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
