@@ -8,8 +8,6 @@ Easily excited about
 - :heavy_multiplication_x: abstract algebra, category theory, homotopy type theory
 - :robot: frc
 
-Mostly experienced with python & java :shushing_face:.
-
 
 Have some experience with c, c++, elm. <br/>
 Playing around with haskell, rescript, julia. <br/>
